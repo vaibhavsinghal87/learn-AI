@@ -13,3 +13,5 @@
 - Agentic AI
 - Copilot studio
 - Azure Data Studio
+- Vercel V0
+- Gihub Spark
