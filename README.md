@@ -15,3 +15,4 @@
 - Azure Data Studio
 - Vercel V0
 - Gihub Spark
+- Create a vscode chat participant
