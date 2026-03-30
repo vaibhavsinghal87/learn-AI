@@ -18,7 +18,7 @@
 - Run models locally using Ollama, run ollma using docker, ollama server, deploy/install ollama in cloud and use api
 - Replit
 
-Github Copilot - 
+Github Copilot -
 - Create a vscode chat participant
 - How to effectively use copilot
 - Copilot customisations
@@ -26,3 +26,7 @@ Github Copilot -
 - customise copilot for organisations use
 - .github/completions.md file
 - .vscode/mcp.md
+
+
+# TODO -
+- image classifier

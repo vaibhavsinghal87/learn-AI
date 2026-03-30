@@ -10,3 +10,5 @@ langchain-text-splitters
 python-dotenv
 sentence_transformers
 langchain_huggingface
+streamlit
+langchain-ollama
