@@ -17,8 +17,20 @@
 - Gihub Spark
 - Run models locally using Ollama, run ollma using docker, ollama server, deploy/install ollama in cloud and use api
 - Replit
+- Docker AI agents
+- Google workspace CLI
+- Teams integration
+- Create agents for teams
+- Create agent to extract whatsapp message dashboard
+- vercellabs projects
+- copilot cli
+- vercel agent sdk
+- AI orchestration
+- AI Frameworks - haystack-ai
+- create BOTs for MSTeams and other apps
 
-Github Copilot -
+
+# Github Copilot -
 - Create a vscode chat participant
 - How to effectively use copilot
 - Copilot customisations

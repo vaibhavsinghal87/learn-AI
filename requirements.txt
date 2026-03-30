@@ -13,3 +13,5 @@ langchain_huggingface
 streamlit
 langchain-ollama
 langsmith
+beautifulsoup4
+faiss-cpu

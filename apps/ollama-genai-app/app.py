@@ -28,7 +28,7 @@ output_parser=StrOutputParser()
 chain=prompt | llm | output_parser
 
 if input_text:
-    try:
+    try:    
         response=chain.invoke({"question": input_text})
         st.write(response)
     except Exception as e:
