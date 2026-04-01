@@ -17,3 +17,4 @@ beautifulsoup4
 faiss-cpu
 langchain_groq
 fastapi[standard]
+mcp[cli]

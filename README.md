@@ -34,7 +34,12 @@
 - MS BotFramework
 - streaming responses
 - create an order booking bot using conversational AI
-- explore 
+- explore no code agent building tools - n8n, copilot studio
+- create an agent to go through files locally and organize
+- agent to track/record screen
+- agent to support mcp client protocol
+- MCP server running locally - MCP server takes SS of screen and sent to LLM to describe what u r doing
+
 
 # Github Copilot -
 - Create a vscode chat participant

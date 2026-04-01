@@ -1,0 +1,12 @@
+{
+	"servers": {
+		"weather-mcp-server": {
+			"type": "stdio",
+			"command": "python",
+			"args": [
+				"D:\\Vaibhav\\Github\\learn-AI\\mcp\\weather.py"
+			]
+		}
+	},
+	"inputs": []
+}
