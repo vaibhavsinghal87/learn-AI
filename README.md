@@ -28,7 +28,13 @@
 - AI orchestration
 - AI Frameworks - haystack-ai
 - create BOTs for MSTeams and other apps
-
+- create different BOTs, like echobot, think of bots use cases
+- openclaw
+- nemoclaw
+- MS BotFramework
+- streaming responses
+- create an order booking bot using conversational AI
+- explore 
 
 # Github Copilot -
 - Create a vscode chat participant
