@@ -4,7 +4,7 @@
 			"type": "stdio",
 			"command": "python",
 			"args": [
-				"D:\\Vaibhav\\Github\\learn-AI\\mcp\\weather.py"
+				"D:\\Vaibhav\\Github\\learn-AI\\mcp\\weather\\server.py"
 			]
 		}
 	},

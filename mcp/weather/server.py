@@ -1,3 +1,4 @@
+# use mcp dev server.py to run MCP Inspector and test tools
 from mcp.server.fastmcp import FastMCP
 
 mcp = FastMCP("Weather")
@@ -10,5 +11,3 @@ def get_weather(location: str) -> str:
 
 if __name__ == "__main__":
     mcp.run()
-
-    
