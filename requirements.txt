@@ -19,3 +19,4 @@ langchain_groq
 fastapi[standard]
 mcp[cli]
 requests
+pyautogui
