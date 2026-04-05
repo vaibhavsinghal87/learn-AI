@@ -1,3 +1,4 @@
+# Example of a simple weather tool for MCP. Exposes a function to get the current weather for a given location.
 # use mcp dev server.py to run MCP Inspector and test tools
 from mcp.server.fastmcp import FastMCP
 

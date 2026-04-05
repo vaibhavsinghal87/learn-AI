@@ -6,6 +6,13 @@
 			"args": [
 				"D:\\Vaibhav\\Github\\learn-AI\\mcp\\weather\\server.py"
 			]
+		},
+		"crypto-mcp-server": {
+			"type": "stdio",
+			"command": "python",
+			"args": [
+				"D:\\Vaibhav\\Github\\learn-AI\\mcp\\call-api\\server.py"
+			]
 		}
 	},
 	"inputs": []

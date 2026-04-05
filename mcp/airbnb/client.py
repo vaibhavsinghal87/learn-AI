@@ -1,3 +1,4 @@
+# Example of a simple MCP client for the Airbnb MCP server. Connects to the server using stdio, lists available tools, and calls the airbnb_search tool with a location argument.
 import asyncio
 import traceback
 

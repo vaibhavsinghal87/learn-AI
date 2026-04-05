@@ -1,3 +1,4 @@
+# Example of updating local files using MCP.
 # writing to local files can be used to share memory between LLMs
 
 from mcp.server.fastmcp import FastMCP
