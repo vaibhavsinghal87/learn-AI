@@ -39,6 +39,7 @@
 - agent to track/record screen
 - agent to support mcp client protocol
 - MCP server running locally - MCP server takes SS of screen and sent to LLM to describe what u r doing
+- How coding assistants are created in vscode. Browse claude leaked code
 
 
 # Github Copilot -
@@ -53,3 +54,6 @@
 
 # TODO -
 - image classifier
+
+# Resources -
+- MCP - https://github.com/microsoft/mcp-for-beginners/tree/main
